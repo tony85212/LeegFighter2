@@ -17,8 +17,13 @@ By GanDan
  
 ## ScreenShot
 
+Main Screen
 ![Main Screen](https://github.com/tony85212/LeegFighter2/blob/main/screeshot/1.jpg)
+Keyboard Setting
 ![Keyboard Setting](https://github.com/tony85212/LeegFighter2/blob/main/screeshot/2.JPG)
+Network connecting
 ![Network connecting](https://github.com/tony85212/LeegFighter2/blob/main/screeshot/3.JPG)
+Select Character
 ![Select Character](https://github.com/tony85212/LeegFighter2/blob/main/screeshot/4.JPG)
+Fighting Screen
 ![Fighting Screen](https://github.com/tony85212/LeegFighter2/blob/main/screeshot/5.JPG)
